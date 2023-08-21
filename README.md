@@ -1,1 +1,1 @@
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%" style="width: 100%" />
+<a href="https://app.daily.dev/Lepryko"><img src="https://api.daily.dev/devcards/104c87cbabb14865b35e0e77bdbad93f.png?r=c46" width="400" alt="Mariusz Heyda's Dev Card"/></a>
